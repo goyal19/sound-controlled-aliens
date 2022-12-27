@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+    font-family: 'Chivo Mono', monospace;
+}
+.header_div{
+    background-color: blue;
+    color: yellow;
+}
+.header_div p{
+    color: orange;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.main_div button{
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    margin-top: 30px;
+    font-family: 'Lato', sans-serif;
+}
+.copy_right_footer{
+    position: fixed ;
+    bottom: 0;
+    width: 100%;
+    background-color: aquamarine;
+    color: blueviolet;
+    font-size: 18px;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px cornflowerblue;
+
+}
